@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Vizard AI Clone",
+  "description": "An AI-powered video repurposing tool that turns long-form videos into viral shorts using Google Gemini 2.5 Flash for content analysis and viral prediction.",
+  "requestFramePermissions": []
+}
